@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sehwalaakash
-- 👀 I’m interested in Python GUI 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Facial Recognition Attendance System.
+- 👀 I’m interested in Web Designing 
+- 🌱 I’m currently learning PHP Laravel
+- 💞️ I’m looking to collaborate on Shyam Consultancy.
 - 📫 How to reach me 9468497114 @ sehwal.aakash@gmail.com
 
 <!---
